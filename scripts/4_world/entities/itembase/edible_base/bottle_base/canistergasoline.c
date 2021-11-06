@@ -6,6 +6,6 @@ modded class CanisterGasoline
 		
 		RemoveAction(ActionFillBottleBase);
 		
-    AddAction(ActionClickFillBottleBase);
+		AddAction(ActionClickFillBottleBase);
 	}
 }
