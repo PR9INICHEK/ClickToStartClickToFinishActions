@@ -1,4 +1,4 @@
-modded class ActionTargetsCursor
+/*modded class ActionTargetsCursor
 {
 	protected ActionBase					m_ClickContinuous;
 	
@@ -15,6 +15,8 @@ modded class ActionTargetsCursor
 	{
 		super.PrepareCursorContent();
 		
+		// Not worked
+			// Need to create another button on widget
 		SetActionWidget(m_ClickContinuous, GetActionDesc(m_ClickContinuous), "continuous", "continuous_action_name");
 	}
-}
+}*/
